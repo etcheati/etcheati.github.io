@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etcheati.github.io/sitemap.html.gz
+Sitemap: https://etcheati.github.io/app/sitemap.html.gz
+Sitemap: https://etcheati.github.io/assets/sitemap.html.gz
+Sitemap: https://etcheati.github.io/css/sitemap.html.gz
+Sitemap: https://etcheati.github.io/data/sitemap.html.gz
+Sitemap: https://etcheati.github.io/includes/sitemap.html.gz
+Sitemap: https://etcheati.github.io/item/sitemap.html.gz
+Sitemap: https://etcheati.github.io/src/sitemap.html.gz
